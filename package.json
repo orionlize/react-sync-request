@@ -1,6 +1,6 @@
 {
-  "name": "sync-request",
-  "version": "0.1.0",
+  "name": "react-sync-request",
+  "version": "0.1.2",
   "description": "For react, synchronous request",
   "main": "lib/index.js",
   "module": "src/index.tsx",
@@ -8,8 +8,7 @@
     "lib": "lib"
   },
   "files": [
-    "lib",
-    "src"
+    "lib"
   ],
   "scripts": {
     "clean": "rm -rf lib && mkdir lib",
